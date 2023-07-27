@@ -3,7 +3,7 @@
 - 📫 I've 2 year expereience in python
 - 🌱 I’m currently learning web development
 - 📫 How to reach me arisze13@gmail.com
-- 
+
 
 <!---
 mission722/mission722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
