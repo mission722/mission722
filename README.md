@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mission
+- 👋 Hi, I’m programmer
 - 👀 I’m interested in python, android development and web development
 - 📫 I've 2 year expereience in python
 - 🌱 I’m currently learning web development
