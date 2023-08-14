@@ -1,7 +1,7 @@
-- 👋 Hi, I’m programmer
+- 👋 Hi, I’m a programmer
 - 👀 I’m interested in python, android development and web development
-- 📫 I've 2 year expereience in python
-- 🌱 I’m currently learning web development
+- 📫 I've many expereience in many field like app developement , web dev, python, etc 
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me arisze13@gmail.com
 
 
