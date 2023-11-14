@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a programmer
-- 👀 I’m interested in python, android development and web development
+- 👋 Hey, programmers
+- 👀 I code in python and also intrested in android development and web development
 - 📫 I've many expereience in many field like app developement , web dev, python, etc 
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me arisze13@gmail.com
